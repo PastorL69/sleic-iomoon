@@ -170,3 +170,5 @@ A **character mapping table** at ROM offset `0x809B0` (96 bytes) maps ASCII code
 0xA9D00 – 0xAC000 : Scrolling credits animation data
 0xD0000 – 0xFFFFF : Program code
 ```
+
+## DMD Signal Decoding
